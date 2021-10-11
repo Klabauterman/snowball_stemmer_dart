@@ -1,7 +1,8 @@
 name: snowball_stemmer
 description: A starting point for Dart libraries or applications.
 version: 0.1.0
-# homepage: https://github.com/Klabauterman/snowball_stemmer_dart
+homepage: https://github.com/Klabauterman/snowball_stemmer_dart
+repository: https://github.com/Klabauterman/snowball_stemmer_dart
 
 environment:
   sdk: ">=2.14.3 <3.0.0"

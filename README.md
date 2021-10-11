@@ -11,10 +11,11 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-This package is a wrapper of this package https://github.com/snowballstem/snowball
-It provides stemmers for multiple languages.
+Snowball stemmers for multiple languages.
 
 ## Features
+
+This package facilitates the compiled stemmers from this project: https://github.com/snowballstem/snowball
 
 Included stemmers:
 
